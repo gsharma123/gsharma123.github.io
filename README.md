@@ -19,7 +19,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## i previously was involved in...
 
-1.  Reflections | Projections (Director, Content Team)  
+1.  Reflections|Projections (Director, Content Team)  
 2.  HackIllinois (Marketing Lead, Experience Team) 
 3.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
 4.  Emerging Leaders Program (One of 30 advertising students) 
