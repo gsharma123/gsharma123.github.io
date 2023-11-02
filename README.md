@@ -1,8 +1,8 @@
 # Garima Sharma
 
-# About Me! 
+# About Me 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service.
 
 ## Header 2
 
