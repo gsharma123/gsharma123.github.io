@@ -19,10 +19,11 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## i previously was involved in...
 
-1.  Reflections|Projections (Director, Content Team)  
+1.  Reflections Projections (Director, Content Team)  
 2.  HackIllinois (Marketing Lead, Experience Team) 
 3.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
-4.  Emerging Leaders Program (One of 30 advertising students) 
+4.  CS CARES Undergraduate Representative 
+5.  Emerging Leaders Program (One of 30 advertising students) 
 
 ## i have taken / am taking...
 
@@ -31,7 +32,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 3. Human-Computer Interaction, Advertising, and Tech Commercialization - UI/UX Design, Tech and Advertising Campaigns, Advertising and Brand Strategy, Consumer Insight, Audience Analysis, High Tech Venture Marketing, Anti-Social Computing, Law and Policy in Computer Science
 
 ## read about me...
-*   [CS STARS Feature]([https://website-name.com](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43170)
+*   [CS STARS Feature]([https://website-name.com](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43170))
 *   [CS Department Feature](https://cs.illinois.edu/news/reflections-projections-co-directors-think-back-on-the-purpose-of-their-successful-event)
 *   [HashiCorp Intern Feature]([https://website-name.com](https://www.hashicorp.com/blog/hashicorp-early-careers-preparing-interns-for-the-real-world)https://www.hashicorp.com/blog/hashicorp-early-careers-preparing-interns-for-the-real-world)
 
