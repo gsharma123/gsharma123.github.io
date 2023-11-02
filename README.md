@@ -1,5 +1,3 @@
-# Garima Sharma
-
 # About Me 
 
 Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service.
