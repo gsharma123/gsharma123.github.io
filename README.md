@@ -1,67 +1,32 @@
-# About Me 
+# about me 
 
 Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service.
 
-## Header 2
+## right now I am....
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Combatting scientific misinformation with Professor Hari Sundaram @ the Crowd Dynamics Lab 
+> Encouraging K-12 women and nonbinary individuals to pursue careers in Computer Science as Women in Computer Science Outreach Chair 
+> Recruiting for Spring 2024 Internships and Full-Time opportunities starting May 2024
 
-#### Header 4
+#### i previously worked on...
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Creating product roadmaps, wireframes, go-to-market strategy and user journeys as a Product Manager Intern @ HashiCorp
+*   Leading an A/B marketing campaign on product education and awareness sent to 5.4 million users as a Product Marketing Intern @ Affirm
+*   Formulating workshops and campaign analysis for 2600+ individuals internationally as a Program Manager Intern @ AbbVie
+*   Directing the largest student run tech conference in the Midwest of over 2200 attendees while raising $70,000 in funding 
 
-##### Header 5
+##### i previously was involved in 
+
+1.  Reflections | Projections (Director, Content Team)  
+2.  HackIllinois (Marketing Lead, Experience Team) 
+3.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
+
+##### Relevant Coursework  
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
