@@ -4,8 +4,10 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## right now I am....
 
-> Combatting scientific misinformation with Professor Hari Sundaram @ the Crowd Dynamics Lab 
-> Encouraging K-12 women and nonbinary individuals to pursue careers in Computer Science as Women in Computer Science Outreach Chair 
+> Combatting scientific misinformation with Professor Hari Sundaram @ Crowd Dynamics Lab
+> 
+> Encouraging K-12 women and nonbinary individuals to pursue careers in Computer Science as Women in Computer Science Outreach Chair
+> 
 > Recruiting for Spring 2024 Internships and Full-Time opportunities starting May 2024
 
 #### i previously worked on...
