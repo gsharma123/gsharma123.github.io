@@ -2,7 +2,7 @@
 
 Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service. 
 
-:computer: ## right now I am....
+## right now I am....
 
 > Combatting scientific misinformation with Professor Hari Sundaram @ Crowd Dynamics Lab
 > 
