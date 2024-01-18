@@ -1,6 +1,6 @@
 # about me 
 
-Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service.  
+Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service. Interested in customer-facing technical roles 
 
 ## right now I am....
 
@@ -8,7 +8,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 > 
 > Encouraging K-12 women and nonbinary individuals to pursue careers in Computer Science as Women in Computer Science Outreach Chair
 > 
-> Recruiting for Spring 2024 Internships and Full-Time Opportunities 
+> Recruiting for Summer 2024 Full-Time Opportunities
 
 ## i previously worked on...
 
@@ -26,16 +26,16 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 1.  Reflections Projections (Director, Content Team)
 2.  Women in Computer Science (Outreach Chair, Mentor)   
-3.  HackIllinois (Marketing Lead, Experience Team) 
+3.  HackIllinois (Marketing Lead, Experience Team, Content x Diversity Team) 
 4.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
-5.  CS CARES Undergraduate Representative 
+5.  CS CARES (Undergraduate Representative)
 6.  Emerging Leaders Program (One of 30 advertising students) 
 
 ## i have taken / am taking...
 
-1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers Intro to Algorithims and Models of Computation, Cloud Computing Applications (Spring 2024), Database Systems (Spring 2024), Applied Machine Learning (Spring 2024)
-2. Theory - Discrete Structures, Linear Algebra, Computational Statistics 
-3. Human-Computer Interaction, Advertising, and Tech Commercialization - UI/UX Design, Tech and Advertising Campaigns, Advertising and Brand Strategy, Consumer Insight, Audience Analysis, High Tech Venture Marketing, Anti-Social Computing, Law and Policy in Computer Science
+1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers Intro to Algorithims and Models of Computation, Cloud Computing Applications (Spring 2024), End to End Data Science (Spring 2024), Applied Machine Learning (Spring 2024)
+2. Theory - Discrete Structures, Linear Algebra, Computational Statistics  
+3. Human-Computer Interaction, Advertising, and Tech Commercialization - UI/UX Design, Contemporary Practice in Web Development (Spring 2024), Tech and Advertising Campaigns, Advertising and Brand Strategy, Consumer Insight, Audience Analysis, High Tech Venture Marketing, Anti-Social Computing, Law and Policy in Computer Science, Computational Social Science (Spring 2024)
 
 ## read about me...
 *   [CS STARS Feature](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43170)
