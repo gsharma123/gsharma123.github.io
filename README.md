@@ -1,8 +1,8 @@
 # about me 
 
-Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service. Interested in customer-facing technical roles 
+Senior in Computer Science and Advertising @ Illinois. Actively involved in undergraduate research, leadership and community service. 
 
-## right now I am....
+:computer: ## right now I am....
 
 > Combatting scientific misinformation with Professor Hari Sundaram @ Crowd Dynamics Lab
 > 
@@ -28,8 +28,9 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 2.  Women in Computer Science (Outreach Chair, Mentor)   
 3.  HackIllinois (Marketing Lead, Experience Team, Content x Diversity Team) 
 4.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
-5.  CS CARES (Undergraduate Representative)
-6.  Emerging Leaders Program (One of 30 advertising students) 
+5.  TechTogether Chicago (Director of Programming) 
+6.  CS CARES (Undergraduate Representative)
+7.  Emerging Leaders Program (One of 30 advertising students) 
 
 ## i have taken / am taking...
 
