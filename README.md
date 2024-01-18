@@ -8,7 +8,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 > 
 > Encouraging K-12 women and nonbinary individuals to pursue careers in Computer Science as Women in Computer Science Outreach Chair
 > 
-> Recruiting for Summer 2024 Full-Time Opportunities
+> Looking for Summer 2024 Opportunities
 
 ## i previously worked on...
 
@@ -34,9 +34,13 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## i have taken / am taking...
 
-1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers Intro to Algorithims and Models of Computation, Cloud Computing Applications (Spring 2024), End to End Data Science (Spring 2024), Applied Machine Learning (Spring 2024)
-2. Theory - Discrete Structures, Linear Algebra, Computational Statistics  
-3. Human-Computer Interaction, Advertising, and Tech Commercialization - UI/UX Design, Contemporary Practice in Web Development (Spring 2024), Tech and Advertising Campaigns, Advertising and Brand Strategy, Consumer Insight, Audience Analysis, High Tech Venture Marketing, Anti-Social Computing, Law and Policy in Computer Science, Computational Social Science (Spring 2024)
+1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers, Cloud Computing Applications (Spring 2024), End to End Data Science (Spring 2024), Applied Machine Learning (Spring 2024)
+   
+2. Theory - Discrete Structures, Linear Algebra, Computational Statistics, Algorithims and Models of Computation
+   
+3. Human-Computer Interaction - UI/UX Design, Contemporary Practice in Web Development (Spring 2024), Tech and Advertising Campaigns, Anti-Social Computing, Law and Policy in Computer Science, Computational Advertising Infrastructure, Computational Social Science (Spring 2024)
+   
+4. Advertising / Tech Commercialization - Advertising Research, Advertising and Brand Strategy, Consumer Insight, Audience Analysis, High Tech Venture Marketing, From Idea to Enterprise 
 
 ## read about me...
 *   [CS STARS Feature](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43170)
