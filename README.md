@@ -34,9 +34,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## i have taken / am taking...
 
-1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers, Cloud Computing Applications (Spring 2024), End to End Data Science (Spring 2024), Applied Machine Learning (Spring 2024)
-   
-2. Theory - Discrete Structures, Linear Algebra, Computational Statistics, Algorithims and Models of Computation
+1. Technical Core - Software Design Studio, Data Structures, Systems Programming (Cloud), Programming Languages and Compilers, End to End Data Science (Spring 2024), Applied Machine Learning (Spring 2024), Discrete Structures, Linear Algebra, Computational Statistics, Algorithims and Models of Computation
    
 3. Human-Computer Interaction - UI/UX Design, Contemporary Practice in Web Development (Spring 2024), Tech and Advertising Campaigns, Anti-Social Computing, Law and Policy in Computer Science, Computational Advertising Infrastructure, Computational Social Science (Spring 2024)
    
