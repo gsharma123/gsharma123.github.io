@@ -15,7 +15,7 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 *   Devlivering Waypoint, an Internal Developer Platform for platform engineers and application developers as a Product Manager Intern @ HashiCorp 
 *   Leading an A/B marketing campaign on product education and awareness sent to 5.4 million users as a Product Marketing Intern @ Affirm
 *   Formulating workshops and campaign analysis for 2600+ individuals internationally as a Program Manager Intern @ AbbVie
-*   Directing the largest student run tech conference in the Midwest of over 2200 attendees while raising $70,000 @ [Reflections|Projections](https://2022.reflectionsprojections.org/)
+*   Directing the largest student run tech conference in the Midwest of over 2200 attendees while raising $70,000 @ [Reflections Projections](https://2022.reflectionsprojections.org/)
 *   Co-organizing [ChicTech](http://wcs.illinois.edu/chictech/) introducing women and non-binary individuals on Computer Science at UIUC
 
 ## i have built...
