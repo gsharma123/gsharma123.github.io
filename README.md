@@ -12,15 +12,17 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 
 ## i previously worked on...
 
-*   Devlivering Waypoint, an Internal Developer Platform for platform engineers and application developers as a Product Manager Intern @ HashiCorp
+*   Devlivering Waypoint, an Internal Developer Platform for platform engineers and application developers as a Product Manager Intern @ HashiCorp 
 *   Leading an A/B marketing campaign on product education and awareness sent to 5.4 million users as a Product Marketing Intern @ Affirm
 *   Formulating workshops and campaign analysis for 2600+ individuals internationally as a Program Manager Intern @ AbbVie
-*   Directing the largest student run tech conference in the Midwest of over 2200 attendees while raising $70,000 @ Reflections Projections
+*   Directing the largest student run tech conference in the Midwest of over 2200 attendees while raising $70,000 @ [Reflections|Projections](https://2022.reflectionsprojections.org/)
+*   Co-organizing [ChicTech](http://wcs.illinois.edu/chictech/) introducing women and non-binary individuals on Computer Science at UIUC
 
 ## i have built...
 
 *   A [mobile application](https://docs.google.com/presentation/d/1EmoMBw0V7RPBPVoD-Z05UIcMZ-2haDcA/edit?usp=sharing&ouid=103230614891997634741&rtpof=true&sd=true) that can find bathrooms publicly available in the Champaign-Urbana area
 *   A [mobile application](https://drive.google.com/file/d/1TswimIL1ouAH8gP8Cyt5Z8UpnIz_E1cF/view?usp=sharing) that encourages peer-to-peer shopping within college campuses to limit overconsumption due to fast fashion brands
+*   Experiments on the usage of Augmented Reality Glasses with real time captioning services for [Professor Lawrence Angrave @ UIUC CS REU](https://cs.illinois.edu/research/undergraduate-research/summer-research-experience-undergraduates/participants/garima-sharma)
 
 ## i have been involved in...
 
@@ -30,7 +32,8 @@ Senior in Computer Science and Advertising @ Illinois. Actively involved in unde
 4.  Association of Computing Machinery (Mentorship Chair, Marketing Chair, and Executive Board)
 5.  TechTogether Chicago (Director of Programming) 
 6.  CS CARES (Undergraduate Representative)
-7.  Emerging Leaders Program (One of 30 advertising students) 
+7.  Computer Science Student Leadership Council (Representative) 
+8.  Emerging Leaders Program (One of 30 advertising students)
 
 ## i have taken / am taking...
 
